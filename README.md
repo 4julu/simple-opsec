@@ -49,7 +49,8 @@ A list of resources for the security conscious tech-users. Operation security, i
   - [Google Reverse Image search instructions](https://support.google.com/websearch/answer/1325808?hl=en)
 
 ## Antitheft Apps :
-
+  
+  - [Cerberus](https://www.cerberusapp.com/)
   - [Lookout](https://www.lookout.com/)
   - [Prey](https://preyproject.com/)
 
@@ -68,6 +69,7 @@ A list of resources for the security conscious tech-users. Operation security, i
 
 ## Searching Your Name
 
+  - [Pipl](https://pipl.com/)
   - [Spokeo](http://www.spokeo.com/)
   - [USSearch](http://www.ussearch.com/)
   - [Intelius](http://www.intelius.com/)
@@ -98,6 +100,8 @@ A list of resources for the security conscious tech-users. Operation security, i
 ## Create an Account with a New Email Provider
 
 - [Gmail](https://accounts.google.com/signup)
+- [Tutanota](https://tutanota.com/)
+- [Mail.com]https://www.mail.com/int/)
 - [Hushmail](https://www.hushmail.com/signup/)
 - [iCloud](https://support.apple.com/kb/ph2620?locale=en_US)
 - [Microsoft Outlook](http://www.microsoft.com/en-us/outlook-com/)
@@ -108,6 +112,7 @@ A list of resources for the security conscious tech-users. Operation security, i
 
 - [VeraCrypt](https://veracrypt.codeplex.com/)
 - [CipherShed](https://ciphershed.org/)
+- [AxCrypt](http://www.axantum.com/AxCrypt/)
 
 ## Encryption Programs
 
@@ -143,6 +148,7 @@ A list of resources for the security conscious tech-users. Operation security, i
 
 ## Antitheft Tracking Apps
 
+- [Cerberus](https://www.cerberusapp.com/home/en)
 - [AVG](http://www.avg.com/us-en/for-android)
 - [Kapersky](http://www.kaspersky.com/mobile_security)
 - [Lookout](https://www.lookout.com/)
