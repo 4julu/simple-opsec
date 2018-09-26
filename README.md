@@ -25,6 +25,10 @@ A list of resources for the security conscious tech-users. Operation security, i
 - Primary screen name(s)
 - Email address (if it’s not public)
 - Telephone number
+- Pet of choice
+- Favorite Colour
+- Height
+- Nicknames
 - Race, sexual orientation, and gender
 - Mailing address (if it’s different from your residence; otherwise it’s red)
 - Country, state, and city of residence
@@ -43,6 +47,14 @@ A list of resources for the security conscious tech-users. Operation security, i
 
 # Communication Security 
 
+## Security Oriented Search Engine
+
+- [DuckDuckGo](https://duckduckgo.com/)
+- [StartPage](https://www.startpage.com/)
+- [SearX](https://searx.me/)
+- [Quant](https://www.qwant.com/)
+- [Swisscows](https://swisscows.ch/)
+
 ## Google Info:
 
   - [Google Custom Alerts](http://google.com/alerts/)
@@ -53,6 +65,7 @@ A list of resources for the security conscious tech-users. Operation security, i
   - [Cerberus](https://www.cerberusapp.com/)
   - [Lookout](https://www.lookout.com/)
   - [Prey](https://preyproject.com/)
+  - [Find My Device/Google](https://google.com/android/find/)
 
 ## Antitracking Plug-ins and Extensions
 
@@ -60,6 +73,7 @@ A list of resources for the security conscious tech-users. Operation security, i
   - [Blur](https://dnt.abine.com/#register)
   - [Disconnect](https://disconnect.me/)
   - [Ghostery](https://www.ghostery.com/en/)
+  - [Privacy Badger](https://www.eff.org/privacybadger)
 
 ## Password Managers
 
@@ -96,9 +110,11 @@ A list of resources for the security conscious tech-users. Operation security, i
 - [CrashPlan](http://www.code42.com/crashplan/)
 - [iCloud](https://www.apple.com/icloud/)
 - [DropBox](https://www.dropbox.com/)
+- [Google Drive](https://drive.google.com/)
 
 ## Create an Account with a New Email Provider
 
+- [Protonmail](https://protonmail.com/)
 - [Gmail](https://accounts.google.com/signup)
 - [Tutanota](https://tutanota.com/)
 - [Mail.com]https://www.mail.com/int/)
@@ -200,6 +216,13 @@ There isn’t one single clearinghouse where you can put yourself on a “do not
 
 - [Sample in-person safety guidelines for online dating](http://www​.chemistry.com/help/safety/)
 
+## Privacy Websistes with Guides and Tutorials
+
+- [This site can help you stay private and anonymous, it contains tools and guides](https://www.privacytools.io/)
+- [Privacy Guides and Tutorials](https://theprivacyguide.org/tutorials.html)
+- [Another Beginner's Guide to privacy](https://www.bestvpn.com/guides/the-ultimate-privacy-guide/)
+- [Another Privacy Tutorial](https://cyberogism.com/ultimate-online-privacy-guide/)
+
 ## Browser Plug-ins and Extensions
 
 - [Adblock Plus -	Blocks ads and tracking for most advertisers](https://adblockplus.org/)
@@ -264,6 +287,13 @@ There isn’t one single clearinghouse where you can put yourself on a “do not
 - [RedPhone and Text Secure](https://whispersystems.org/)
 - [Silent Circle](https://www.silentcircle.com/)
 
+## Recommended Android Privacy Apps
+
+- [Signal](https://www.signal.org/)
+- [Orbot](https://guardianproject.info/apps/orbot/)
+- [Orfox](https://guardianproject.info/apps/orfox/)
+- [Wickr Me](https://wickr.com/products/personal/)
+
 ## Tor (The Onion Router)
 
 - [Project site](https://www.torproject.org/)
@@ -292,6 +322,6 @@ There isn’t one single clearinghouse where you can put yourself on a “do not
 
 
 
-# Contribution 
+# Author of original read.md and comments
 
 If you have any additional related resource(s). Fork this project repo, make changes on your clone and make a Pull Request. You can also drop me an email -  **jayombagi (at) gmail (dot) com**
